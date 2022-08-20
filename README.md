@@ -1,4 +1,6 @@
-[Projects](#-projects) [Connect](#--connect-with-me)
+Menu
+====
+<b>[Projects](#-projects)&nbsp;&nbsp;|&nbsp;&nbsp;[Connect](#--connect-with-me)</b>
 <h1>Hi, I'm Purav Pujara! <br/> Programmer, Web Developer, Software Developer</h1>
 
 <p>
