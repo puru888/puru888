@@ -1,6 +1,6 @@
 Menu
 ====
-<b>[Projects](#-projects)&nbsp;&nbsp;|&nbsp;&nbsp;[Connect](#--connect-with-me)</b>
+<b>[About me](#-projects)&nbsp;&nbsp;|&nbsp;&nbsp;[Projects](#-projects)&nbsp;&nbsp;|&nbsp;&nbsp;[Connect](#--connect-with-me)</b>
 <h1>Hi, I'm Purav Pujara! <br/> Programmer, Web Developer, Software Developer</h1>
 
 <p>
@@ -9,7 +9,12 @@ Menu
 </p>
     <img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif?raw=true" height="318" />
     
-  
+ <h2>🙎🏻‍♂️ About me:</h2>
+ 
+ - I'm a generalist programmer, a geek and a life long learner.
+ - A philomath with Bacholer's degree in I.T. and a Post Graduate in Programming and Web Technologies.
+ - A thinker with good problem-solving and decision making skill, Can work well either in team or as an individual. 
+ 
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Recify(Android [Java])</b>
