@@ -13,7 +13,8 @@ Menu
  
  - I'm a generalist programmer, a geek and a life long learner.
  - A philomath with Bacholer's degree in I.T. and a Post Graduate in Programming and Web Technologies.
- - A thinker with good problem-solving and decision making skill, Can work well either in team or as an individual. 
+ - A thinker with good problem-solving and decision making skill, Can work well either in team or as an individual.
+ - [View My CV](https://drive.google.com/file/d/149DhfUFTxnab1COM7T0D9ngF3ZQkRkmA/view?usp=sharing)
  
 <h2>👨‍💻 Projects:</h2>
 
