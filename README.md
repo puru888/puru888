@@ -1,6 +1,6 @@
 ## Menu
 
-<b>[About me](#%EF%B8%8F-about-me)&nbsp;&nbsp;|&nbsp;&nbsp;[Projects](#-projects)&nbsp;&nbsp;|&nbsp;&nbsp;[Connect](#--connect-with-me)</b>
+<b>[About me](#%EF%B8%8F-about-me)&nbsp;&nbsp;|&nbsp;&nbsp;[Projects](#-projects)&nbsp;&nbsp;|&nbsp;&nbsp;[Languages & tools](#%EF%B8%8F-languages-and-tools)&nbsp;&nbsp;|&nbsp;&nbsp;[Connect](#-connect-with-me)</b>
 <h1>Hi, I'm Purav Pujara! <br/> Programmer, Web Developer, Software Developer</h1>
 
 <p>
