@@ -112,11 +112,12 @@
 
 ## 🤳 Connect with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="Twitter" width="22px" src="https://user-images.githubusercontent.com/67874545/187975066-d76adb0d-b3e2-48ee-b381-c0d2dc6da833.svg" />][Github]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Email" width="22px" src="https://user-images.githubusercontent.com/67874545/187039146-9e47a22e-a74e-4bb2-9922-d96c00d0cfc8.svg" />][Gmail]
 
-[twitter]: https://twitter.com/pujara_purav
+[Github]: https://github.com/puru888
 [linkedin]: https://linkedin.com/in/purav-pujara
 [Gmail]: mailto:papujara162@gmail.com
 
