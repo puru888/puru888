@@ -19,11 +19,11 @@
 ## 👨‍💻 Projects:
 
 - <b>Recify(Android [Java])</b>
-  - [An android app to find delicious recipes](https://github.com/puru888/Recify.git)
+  - [An android app to find delicious recipes (Learn more)](https://github.com/puru888/Recify.git)
 - <b>Simon Game(GoLang, Javascript)</b>
-  - [A web based game of short-term memory skill](https://github.com/puru888/SimonGameWithGolang.git)
+  - [A web based game of short-term memory skill (Learn more)](https://github.com/puru888/SimonGameWithGolang.git)
 - <b>Tic Tac Toe(Java, Swing Gui)</b>
-  - [Window Application for playing paper based TicTacToe game](https://github.com/puru888/Tic-Tac-Toe.git)
+  - [Window Application for playing paper based TicTacToe game (Learn more)](https://github.com/puru888/Tic-Tac-Toe.git)
 
 
 ## ⚙️ Languages and Tools
