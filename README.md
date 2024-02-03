@@ -119,5 +119,5 @@
 
 [Github]: https://github.com/puru888
 [linkedin]: https://linkedin.com/in/purav-pujara
-[Gmail]: mailto:papujara162@gmail.com
+[Gmail]: mailto:puravpujara162@gmail.com
 
